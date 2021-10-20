@@ -1,5 +1,3 @@
-# VOLTE MAIS TARDE - POR FAVOR - ENCONTRADO BUG AO SUBIR AO HEROKU SERVER - HOTFIX EM ANDAMENTO
-
 <h1 align="center">Projeto - Calculo de Distância entre Cidades</h1>
 
 <p align="center">
